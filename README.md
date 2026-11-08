@@ -1,3 +1,11 @@
+![Sentinel-2 Geospatial Analysis](cover.svg)
+
+> **Satellite imagery · Geospatial workflows**
+
+**Area:** Remote Sensing & GIS · [Browse project files](./)
+
+---
+
 # Sentinel-2 Geospatial Analysis Pipeline
 
 A Python geospatial and remote-sensing pipeline for processing Sentinel-2 Level-2A multispectral satellite imagery and deriving vegetation information over a defined geographic area of interest.
